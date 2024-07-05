@@ -3,5 +3,7 @@ h1 {
 }
 
 @media (min-width: 500px) {
-  color: red;
+  h1 {
+    color: red;
+  }
 }
